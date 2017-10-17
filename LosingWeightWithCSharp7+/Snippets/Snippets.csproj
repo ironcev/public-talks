@@ -15,8 +15,4 @@
     <LangVersion>7.1</LangVersion>
   </PropertyGroup>
 
-  <ItemGroup>
-    <Compile Remove="ExpressionBodiedMembersWithConstructorsFinalizersAndAccessors.cs" />
-  </ItemGroup>
-
 </Project>
