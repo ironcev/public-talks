@@ -1,0 +1,22 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netstandard2.0</TargetFramework>
+    <AssemblyName>LosingWeightWithCSharp7Plus.Snippets</AssemblyName>
+    <RootNamespace>LosingWeightWithCSharp7Plus.Snippets</RootNamespace>
+    <PackageId />
+    <Version>0.0.0.0</Version>
+    <Authors />
+    <Company />
+    <Product />
+  </PropertyGroup>
+
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|AnyCPU'">
+    <LangVersion>7.1</LangVersion>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Compile Remove="ExpressionBodiedMembersWithConstructorsFinalizersAndAccessors.cs" />
+  </ItemGroup>
+
+</Project>
