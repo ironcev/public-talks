@@ -1,3 +1,6 @@
+# Visual Studio 2015 cache/options directory
+.vs/
+
 # Build Folders (you can keep bin if you'd like, to store dlls and pdbs)
 [Bb]in/
 [Oo]bj/
