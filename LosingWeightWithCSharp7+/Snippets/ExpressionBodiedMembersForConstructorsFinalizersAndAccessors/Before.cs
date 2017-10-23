@@ -2,7 +2,7 @@
 using System.ComponentModel;
 using System.Runtime.CompilerServices;
 
-namespace LosingWeightWithCSharp7Plus.Snippets.ExpressionBodiedMembersWithConstructorsFinalizersAndAccessors
+namespace LosingWeightWithCSharp7Plus.Snippets.ExpressionBodiedMembersForConstructorsFinalizersAndAccessors
 {
     public class EmployeeBefore : INotifyPropertyChanged, IDisposable
     {

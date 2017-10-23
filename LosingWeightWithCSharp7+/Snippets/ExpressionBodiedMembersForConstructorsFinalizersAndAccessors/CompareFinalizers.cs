@@ -1,4 +1,4 @@
-﻿namespace LosingWeightWithCSharp7Plus.Snippets.ExpressionBodiedMembersWithConstructorsFinalizersAndAccessors
+﻿namespace LosingWeightWithCSharp7Plus.Snippets.ExpressionBodiedMembersForConstructorsFinalizersAndAccessors
 {
     public class FinalizerBefore
     {
