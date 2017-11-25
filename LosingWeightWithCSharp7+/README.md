@@ -6,7 +6,8 @@ C# 7.0 and 7.1 bring new features that can make our code leaner and more readabl
 
 The talk was given at:
 
-- [Microsoft Developer User Group Graz (on October 25th, 2017)](https://www.meetup.com/de-DE/MicrosoftDeveloperGraz/events/243975926/)
+- [Microsoft Developer User Group Graz (on October 25th, 2017)](https://www.meetup.com/MicrosoftDeveloperGraz/events/243975926/)
+- [Microsoft Developer User Group Zagreb (on November 22nd, 2017)](https://www.meetup.com/devugzg/events/244521212/)
 
 ## How to Using the Samples
 
