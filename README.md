@@ -5,6 +5,7 @@ Code snippets and examples used in my public talks.
 Talks, ordered alphabetically:
 
 - [Losing Weight With C# 7+](LosingWeightWithCSharp7+)
+- [Super-powers and the Compiler](SuperPowersAndTheCompiler)
 
 ## License
 The code snippets and examples are neither licensed nor copyrighted. You can do whatever you want with them as long as you don't say you created them yourself ;-) In case of (re)use, providing a link to this GitHub repository would be highly appreciated, but it's not mandatory.
