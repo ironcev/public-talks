@@ -1,5 +1,5 @@
 # Public Talks
-Code snippets and examples used in my public talks.
+Code snippets and examples used in my public talks given in 2017 and onwards.
 
 ## Talks
 Talks, ordered alphabetically:
