@@ -8,6 +8,7 @@ In the beginning of the talk we discuss compilers in general. How do they work? 
 Then we introduce Roslyn and discuss how and why it "changed the game" for .NET developers. We present few concrete projects built on top of Roslyn, and move toward examples of potential usage of Roslyn in our own projects. In particular, we discuss how to utilize Roslyn to increase code quality of our own projects.
 
 The talk was given at:
+- [.NET Stammtisch Linz (Linz, Austria on February 20th, 2018)](https://www.meetup.com/NET-Stammtisch-Linz/events/247045584/)
 - [Dot Net Developers NCR Chapter (New Delhi, India on December 2nd, 2017)](https://www.meetup.com/Dot-Net-Developers-NCR-Chapter/events/245193299/)
 - [ASP.NET Workshop Dublin (Dublin, Ireland on August 14th, 2017)](https://www.meetup.com/ASP-NET-Workshop-Dublin/events/242376742/)
 - [Microsoft Developer User Group Rijeka (Rijeka, Croatia on May 30th, 2017)](https://www.meetup.com/Microsoft-Developer-User-Group-Rijeka/events/239938651/)
