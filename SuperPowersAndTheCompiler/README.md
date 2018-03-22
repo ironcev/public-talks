@@ -22,4 +22,4 @@ The examples of the Roslyn's Syntax API usage can be found in the [the reworked 
 
 The diagnostics and code fix example, the `MustInvoke`, can be found in the [Jason's Bock sample code for his book ".NET Development Using the Compiler API"](https://github.com/JasonBock/CompilerAPIBook/tree/master/Chapter%202/MustInvoke).
 
-The *Sharpen* project can be found [here](https://github.com/ironcev/Sharpen).
+The details on the *Sharpen* project can be found on its homepage: [http://sharpen.rocks](http://sharpen.rocks).
