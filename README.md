@@ -1,5 +1,5 @@
 # Public Talks
-My public talks given in 2017 and onwards - their descriptions, code snippets, and sample projects.
+My public talks given from 2017 onwards - their abstracts, code snippets, and sample projects.
 
 ## Talks
 Talks, ordered alphabetically:
@@ -34,7 +34,7 @@ Past to present of the talks at various user groups and conferences:
  | May 30th | [Super-powers and the Compiler](SuperPowersAndTheCompiler) | [Microsoft Developer User Group Rijeka](https://www.meetup.com/Microsoft-Developer-User-Group-Rijeka/events/239938651/) | Rijeka, Croatia |
 
 ## License
-The code snippets and examples are neither licensed nor copyrighted. You can do whatever you want with them as long as you don't say you created them yourself ;-) In case of (re)use, providing a link to this GitHub repository would be highly appreciated, but it's not mandatory.
+Code snippets and sample projects used in the talks are neither licensed nor copyrighted. You can do whatever you want with them as long as you don't say you've created them yourself ;-) In case of (re)use, providing a link to this GitHub repository would be highly appreciated, but it's not mandatory.
 
 <p align="center">
     <a href="http://mimiandeunice.com/"><img src="without-copyright-law.png" alt="Mimi & Eunice - Without Copyright Law?" style="max-width:100%;"></a>
