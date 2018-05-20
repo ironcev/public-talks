@@ -5,6 +5,7 @@ Code snippets and examples used in my public talks given in 2017 and onwards.
 Talks, ordered alphabetically:
 
 - [C++ Package Managers - At Long Last](CppPackageManagersAtLongLast)
+- [Catch2 (or a Love at First Sight)](Catch2OrALoveAtFirstSight)
 - [Losing Weight With C# 7+](LosingWeightWithCSharp7+)
 - [Super-powers and the Compiler](SuperPowersAndTheCompiler)
 
