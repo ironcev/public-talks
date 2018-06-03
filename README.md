@@ -7,6 +7,7 @@ Talks, ordered alphabetically:
 - [C++ Package Managers - At Long Last](CppPackageManagersAtLongLast)
 - [Catch2 (or a Love at First Sight)](Catch2OrALoveAtFirstSight)
 - [Losing Weight With C# 7+](LosingWeightWithCSharp7+)
+- [NSeed or The Art of .NET Data Generation](NSeedOrTheArtOfDotNetDataGeneration)
 - [Reaching Technical Excellence - From Software Sheep to Software Craftsmanship](ReachingTechnicalExcellenceFromSoftwareSheepToSoftwareCraftsmanship) (Together with [Stefan Wunder](https://twitter.com/stwunder))
 - [Super-powers and the Compiler](SuperPowersAndTheCompiler)
 
@@ -16,6 +17,7 @@ Past to present of the talks at various user groups and conferences:
 
  | Date | Talk | Event | Place |
  | --- | --- | --- | --- |
+ | May 31st | [NSeed or The Art of .NET Data Generation](NSeedOrTheArtOfDotNetDataGeneration) | [ASP.NET Workshop Dublin (Dublin, Ireland on May 31st, 2018)](https://www.meetup.com/ASP-NET-Workshop-Dublin/events/250802338/) | Dublin, Ireland |
  | May 18th | [Reaching Technical Excellence - From Software Sheep to Software Craftsmanship](ReachingTechnicalExcellenceFromSoftwareSheepToSoftwareCraftsmanship) (Together with [Stefan Wunder](https://twitter.com/stwunder)) | [Agile Austria Conference 2018 - The Future of Agile](https://agile-austria.org/en/) | Graz, Austria |
  | March 20th | [Catch2 (or a Love at First Sight)](Catch2OrALoveAtFirstSight) | [Graz Qt/C++11 Meetup](https://www.meetup.com/Graz-Qt-C-11-Meetup/events/247829984/) | Graz, Austria |
  | February 20th | [Super-powers and the Compiler](SuperPowersAndTheCompiler) | [.NET Stammtisch Linz](https://www.meetup.com/NET-Stammtisch-Linz/events/247045584/) | Linz, Austria |
