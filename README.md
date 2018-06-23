@@ -36,8 +36,8 @@ Past to present of the talks at various user groups and conferences:
  | May 30th | [Super-powers and the Compiler](SuperPowersAndTheCompiler) | [Microsoft Developer User Group Rijeka](https://www.meetup.com/Microsoft-Developer-User-Group-Rijeka/events/239938651/) | Rijeka, Croatia |
 
 ## License
-Code snippets and sample projects used in the talks are neither licensed nor copyrighted. You can do whatever you want with them as long as you don't say you've created them yourself ;-) In case of (re)use, providing a link to this GitHub repository would be highly appreciated, but it's not mandatory.
+[![CC0](http://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](http://creativecommons.org/publicdomain/zero/1.0)
 
-<p align="center">
-    <a href="http://mimiandeunice.com/"><img src="without-copyright-law.png" alt="Mimi & Eunice - Without Copyright Law?" style="max-width:100%;"></a>
-</p>
+To the extent possible under law, Igor Rončević has waived all copyright and related or neighboring rights to this work.
+
+In case of (re)use, providing a link to this GitHub repository would be highly appreciated.
