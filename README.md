@@ -9,7 +9,7 @@ Talks, ordered alphabetically:
 - [High-Performance .NET](HighPerformanceDotNet)
 - [Losing Weight With C# 7+](LosingWeightWithCSharp7+)
 - [NSeed or The Art of .NET Data Generation](NSeedOrTheArtOfDotNetDataGeneration)
-- [Reaching Technical Excellence - From Software Sheep to Software Craftsmanship](ReachingTechnicalExcellenceFromSoftwareSheepToSoftwareCraftsmanship) (Together with [Stefan Wunder](https://twitter.com/stwunder))
+- [Reaching Technical Excellence - From Software Sheep to Software Craftsmanship](ReachingTechnicalExcellenceFromSoftwareSheepToSoftwareCraftsmanship)
 - [Super-powers and the Compiler](SuperPowersAndTheCompiler)
 
 Past to present of the talks at various user groups and conferences:
