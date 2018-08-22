@@ -15,6 +15,13 @@ Talks, ordered alphabetically:
 
 Past to present of the talks at various user groups and conferences:
 
+Upcoming Talks
+
+ | Date | Talk | Event | Place |
+ | --- | --- | --- | --- |
+ | October&nbsp;3rd | [High-Performance ASP.NET Core (Workshop)](HighPerformanceAspDotNetCore) | [WebCamp Zagreb Conference](https://2018.webcampzg.org/workshops/high-performance-aspnet-core/) | Zagreb,&nbsp;Croatia |
+ | August&nbsp;31st | [High-Performance ASP.NET Core (Workshop)](HighPerformanceAspDotNetCore) | [KulenDayz Conference](http://www.kulendayz.com/Agenda/Session/3381) | Osijek,&nbsp;Croatia |
+
 2018
 
  | Date | Talk | Event | Place |
