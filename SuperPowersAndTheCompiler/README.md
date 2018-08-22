@@ -14,6 +14,8 @@ The talk was given at:
 - [Microsoft Developer User Group Rijeka (Rijeka, Croatia on May 30th, 2017)](https://www.meetup.com/Microsoft-Developer-User-Group-Rijeka/events/239938651/)
 
 ## Code Samples
+The [Awesome Roslyn](https://github.com/ironcev/awesome-roslyn) list is the best starting point to learn more about Roslyn. It is a curated list of awesome Roslyn books, tutorials, open source projects, analyzers, code fixes, and refactorings.
+
 The code samples used in the talk are already available in several other repositories.
 
 The samples with C# contextual keywords can be found in [the code snippets of the blog post "Await Async as Async"](https://github.com/ironcev/HumbleXamples/tree/master/AwaitAsyncAsAsync).
