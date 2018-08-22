@@ -7,6 +7,7 @@ Talks, ordered alphabetically:
 - [C++ Package Managers - At Long Last](CppPackageManagersAtLongLast)
 - [Catch2 (or a Love at First Sight)](Catch2OrALoveAtFirstSight)
 - [High-Performance .NET](HighPerformanceDotNet)
+- [High-Performance ASP.NET Core (Workshop)](HighPerformanceAspDotNetCore)
 - [Losing Weight With C# 7+](LosingWeightWithCSharp7+)
 - [NSeed or The Art of .NET Data Generation](NSeedOrTheArtOfDotNetDataGeneration)
 - [Reaching Technical Excellence - From Software Sheep to Software Craftsmanship](ReachingTechnicalExcellenceFromSoftwareSheepToSoftwareCraftsmanship)
