@@ -20,7 +20,7 @@ Past to present of the talks at various user groups and conferences:
  | --- | --- | --- | --- |
  | July&nbsp;14th | [High-Performance .NET](HighPerformanceDotNet) | [Tech Bytes by Quovantis](https://www.meetup.com/Tech-Bytes-by-Quovantis/events/252503674/) | New&nbsp;Delhi,&nbsp;India |
  | May&nbsp;31st | [NSeed or The Art of .NET Data Generation](NSeedOrTheArtOfDotNetDataGeneration) | [ASP.NET Workshop Dublin](https://www.meetup.com/ASP-NET-Workshop-Dublin/events/250802338/) | Dublin,&nbsp;Ireland |
- | May&nbsp;18th | [Reaching Technical Excellence - From Software Sheep to Software Craftsmanship](ReachingTechnicalExcellenceFromSoftwareSheepToSoftwareCraftsmanship) (Together with [Stefan Wunder](https://twitter.com/stwunder)) | [Agile Austria Conference 2018 - The Future of Agile](https://agile-austria.org/en/) | Graz,&nbsp;Austria |
+ | May&nbsp;18th | [Reaching Technical Excellence - From Software Sheep to Software Craftsmanship](ReachingTechnicalExcellenceFromSoftwareSheepToSoftwareCraftsmanship) (Together with [Stefan Wunder](https://twitter.com/stwunder)) | [Agile Austria Conference](https://agile-austria.org/en/) | Graz,&nbsp;Austria |
  | March&nbsp;20th | [Catch2 (or a Love at First Sight)](Catch2OrALoveAtFirstSight) | [Graz Qt/C++11 Meetup](https://www.meetup.com/Graz-Qt-C-11-Meetup/events/247829984/) | Graz,&nbsp;Austria |
  | February&nbsp;20th | [Super-powers and the Compiler](SuperPowersAndTheCompiler) | [.NET Stammtisch Linz](https://www.meetup.com/NET-Stammtisch-Linz/events/247045584/) | Linz,&nbsp;Austria |
 
