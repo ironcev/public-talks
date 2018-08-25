@@ -3,6 +3,8 @@
 ## About the Workshop
 [The workshop summary is coming soon.]
 
+The workshop is done together with [Dobriša Adamec](https://twitter.com/dadamec).
+
 The workshop will be given at:
 
 - [WebCamp Zagreb Conference (Zagreb, Croatia on October 3rd, 2018)](https://2018.webcampzg.org/workshops/high-performance-aspnet-core/)
