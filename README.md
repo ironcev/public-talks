@@ -19,13 +19,13 @@ Upcoming Talks
 
  | Date | Talk | Event | Place |
  | --- | --- | --- | --- |
- | August&nbsp;31st | [High-Performance ASP.NET Core (Workshop)](HighPerformanceAspDotNetCore) (Together with [Dobriša Adamec](https://twitter.com/dadamec))| [KulenDayz Conference](http://www.kulendayz.com/Agenda/Session/3381) | Osijek,&nbsp;Croatia |
  | October&nbsp;3rd | [High-Performance ASP.NET Core (Workshop)](HighPerformanceAspDotNetCore) (Together with [Dobriša Adamec](https://twitter.com/dadamec))| [WebCamp Zagreb Conference](https://2018.webcampzg.org/workshops/high-performance-aspnet-core/) | Zagreb,&nbsp;Croatia |
 
 2018
 
  | Date | Talk | Event | Place |
  | --- | --- | --- | --- |
+ | August&nbsp;31st | [High-Performance ASP.NET Core (Workshop)](HighPerformanceAspDotNetCore) (Together with [Dobriša Adamec](https://twitter.com/dadamec))| [KulenDayz Conference](http://www.kulendayz.com/Agenda/Session/3381) | Osijek,&nbsp;Croatia |
  | July&nbsp;14th | [High-Performance .NET](HighPerformanceDotNet) | [Tech Bytes by Quovantis](https://www.meetup.com/Tech-Bytes-by-Quovantis/events/252503674/) | New&nbsp;Delhi,&nbsp;India |
  | May&nbsp;31st | [NSeed or The Art of .NET Data Generation](NSeedOrTheArtOfDotNetDataGeneration) | [ASP.NET Workshop Dublin](https://www.meetup.com/ASP-NET-Workshop-Dublin/events/250802338/) | Dublin,&nbsp;Ireland |
  | May&nbsp;18th | [Reaching Technical Excellence - From Software Sheep to Software Craftsmanship](ReachingTechnicalExcellenceFromSoftwareSheepToSoftwareCraftsmanship) (Together with [Stefan Wunder](https://twitter.com/stwunder)) | [Agile Austria Conference](https://agile-austria.org/en/) | Graz,&nbsp;Austria |
