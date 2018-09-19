@@ -19,6 +19,7 @@ Upcoming Talks
 
  | Date | Talk | Event | Place |
  | --- | --- | --- | --- |
+ | September&nbsp;28th | [High-Performance .NET](HighPerformanceDotNet) | [Microsoft Developer User Group Rijeka](https://www.meetup.com/Microsoft-Developer-User-Group-Rijeka/events/254828604) | Rijeka,&nbsp;Croatia |
  | October&nbsp;3rd | [High-Performance ASP.NET Core (Workshop)](HighPerformanceAspDotNetCore) (Together with [Dobriša Adamec](https://twitter.com/dadamec))| [WebCamp Zagreb Conference](https://2018.webcampzg.org/workshops/high-performance-aspnet-core/) | Zagreb,&nbsp;Croatia |
 
 2018
