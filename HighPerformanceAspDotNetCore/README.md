@@ -1,8 +1,9 @@
-# High-Performance ASP.NET Core (Workshop)
+# High-Performance ASP.NET Core
 
-## About the Workshop
-[The workshop summary is coming soon.]
+## About the Talk
+[The talk summary is coming soon.]
 
+This talk exists as well in a workshop form.
 The workshop is done together with [Dobriša Adamec](https://twitter.com/dadamec).
 
 The workshop will be given at:
@@ -14,4 +15,4 @@ The workshop was given at:
 - [KulenDayz Conference (Osijek, Croatia on August 31st, 2018)](http://www.kulendayz.com/Agenda/Session/3381)
 
 ## Code Samples
-[The code samples used in the workshop are coming soon.]
+[The code samples used in the talk and workshop are coming soon.]
