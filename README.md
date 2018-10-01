@@ -20,7 +20,7 @@ Upcoming Talks
  | Date | Talk | Event | Place |
  | --- | --- | --- | --- |
  | October&nbsp;3rd | [High-Performance ASP.NET Core (Workshop)](HighPerformanceAspDotNetCore) (Together with [Dobriša Adamec](https://twitter.com/dadamec))| [WebCamp Zagreb Conference](https://2018.webcampzg.org/workshops/high-performance-aspnet-core/) | Zagreb,&nbsp;Croatia |
- | October&nbsp;13th | [High-Performance ASP.NET Core (Workshop)](HighPerformanceAspDotNetCore) (Together with [Dobriša Adamec](https://twitter.com/dadamec))| [Start IT Hrvatska](http://www.startit.hr/) | Rijeka,&nbsp;Croatia |
+ | October&nbsp;13th | [High-Performance ASP.NET Core (Workshop)](HighPerformanceAspDotNetCore) (Together with [Dobriša Adamec](https://twitter.com/dadamec))| [Start IT Hrvatska](https://www.meetup.com/Udruga-za-promicanje-naprednih-tehnologija-Start-IT/events/255161380/) | Rijeka,&nbsp;Croatia |
 
 2018
 
