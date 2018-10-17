@@ -15,17 +15,12 @@ Talks, ordered alphabetically:
 
 Past to present of the talks at various user groups and conferences:
 
-Upcoming Talks
-
- | Date | Talk | Event | Place |
- | --- | --- | --- | --- |
- | October&nbsp;3rd | [High-Performance ASP.NET Core (Workshop)](HighPerformanceAspDotNetCore) (Together with [Dobriša Adamec](https://twitter.com/dadamec))| [WebCamp Zagreb Conference](https://2018.webcampzg.org/workshops/high-performance-aspnet-core/) | Zagreb,&nbsp;Croatia |
- | October&nbsp;13th | [High-Performance ASP.NET Core (Workshop)](HighPerformanceAspDotNetCore) (Together with [Dobriša Adamec](https://twitter.com/dadamec))| [Start IT Hrvatska](https://www.meetup.com/Udruga-za-promicanje-naprednih-tehnologija-Start-IT/events/255161380/) | Rijeka,&nbsp;Croatia |
-
 2018
 
  | Date | Talk | Event | Place |
  | --- | --- | --- | --- |
+ | October&nbsp;13th | [High-Performance ASP.NET Core (Workshop)](HighPerformanceAspDotNetCore) | [Start IT Hrvatska](https://www.meetup.com/Udruga-za-promicanje-naprednih-tehnologija-Start-IT/events/255161380/) | Rijeka,&nbsp;Croatia |
+ | October&nbsp;3rd | [High-Performance ASP.NET Core (Workshop)](HighPerformanceAspDotNetCore) (Together with [Dobriša Adamec](https://twitter.com/dadamec))| [WebCamp Zagreb Conference](https://2018.webcampzg.org/workshops/high-performance-aspnet-core/) | Zagreb,&nbsp;Croatia |
  | September&nbsp;28th | [High-Performance .NET](HighPerformanceDotNet) | [Microsoft Developer User Group Rijeka](https://www.meetup.com/Microsoft-Developer-User-Group-Rijeka/events/254828604) | Rijeka,&nbsp;Croatia |
  | August&nbsp;31st | [High-Performance ASP.NET Core (Workshop)](HighPerformanceAspDotNetCore) (Together with [Dobriša Adamec](https://twitter.com/dadamec))| [KulenDayz Conference](http://www.kulendayz.com/Agenda/Session/3381) | Osijek,&nbsp;Croatia |
  | August&nbsp;31st | [NSeed or The Art of .NET Data Generation](NSeedOrTheArtOfDotNetDataGeneration) (Open Session) | [KulenDayz Conference](https://www.netokracija.com/kulendayz-2018-150865) | Osijek,&nbsp;Croatia |
