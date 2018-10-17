@@ -6,6 +6,7 @@ Talks, ordered alphabetically:
 
 - [C++ Package Managers - At Long Last](CppPackageManagersAtLongLast)
 - [Catch2 (or a Love at First Sight)](Catch2OrALoveAtFirstSight)
+- [Cross-platform .NET Core Development With Visual Studio Code](CrossPlatformDotNetCoreDevelopmentWithVisualStudioCode)
 - [High-Performance .NET](HighPerformanceDotNet)
 - [High-Performance ASP.NET Core](HighPerformanceAspDotNetCore)
 - [Losing Weight With C# 7+](LosingWeightWithCSharp7+)
@@ -20,6 +21,7 @@ Past to present of the talks at various user groups and conferences:
  | Date | Talk | Event | Place |
  | --- | --- | --- | --- |
  | October&nbsp;13th | [High-Performance ASP.NET Core (Workshop)](HighPerformanceAspDotNetCore) | [Start IT Hrvatska](https://www.meetup.com/Udruga-za-promicanje-naprednih-tehnologija-Start-IT/events/255161380/) | Rijeka,&nbsp;Croatia |
+ | October&nbsp;4th | [Cross-platform .NET Core Development With Visual Studio Code](CrossPlatformDotNetCoreDevelopmentWithVisualStudioCode) | [Microsoft Developer User Group Graz](https://www.meetup.com/MicrosoftDeveloperGraz/events/254817251/) | Graz,&nbsp;Austria |
  | October&nbsp;3rd | [High-Performance ASP.NET Core (Workshop)](HighPerformanceAspDotNetCore) (Together with [Dobriša Adamec](https://twitter.com/dadamec))| [WebCamp Zagreb Conference](https://2018.webcampzg.org/workshops/high-performance-aspnet-core/) | Zagreb,&nbsp;Croatia |
  | September&nbsp;28th | [High-Performance .NET](HighPerformanceDotNet) | [Microsoft Developer User Group Rijeka](https://www.meetup.com/Microsoft-Developer-User-Group-Rijeka/events/254828604) | Rijeka,&nbsp;Croatia |
  | August&nbsp;31st | [High-Performance ASP.NET Core (Workshop)](HighPerformanceAspDotNetCore) (Together with [Dobriša Adamec](https://twitter.com/dadamec))| [KulenDayz Conference](http://www.kulendayz.com/Agenda/Session/3381) | Osijek,&nbsp;Croatia |
