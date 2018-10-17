@@ -5,6 +5,7 @@
 
 The talk was given at:
 
+- [KulenDayz Conference (Open Session) (Osijek, Croatia on August 31st, 2018)](https://www.netokracija.com/kulendayz-2018-150865)
 - [ASP.NET Workshop Dublin (Dublin, Ireland on May 31st, 2018)](https://www.meetup.com/ASP-NET-Workshop-Dublin/events/250802338/)
 
 ## Code Samples
