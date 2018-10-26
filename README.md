@@ -17,6 +17,12 @@ Talks, ordered alphabetically:
 
 Past to present of the talks at various user groups and conferences:
 
+Upcoming talks
+
+| Date | Talk | Event | Place |
+ | --- | --- | --- | --- |
+ | December&nbsp;5th | [Reaching Technical Excellence - From Software Sheep to Software Craftsmanship](ReachingTechnicalExcellenceFromSoftwareSheepToSoftwareCraftsmanship) | [Advanced Technology Days Conference](https://advtechdays.com/) | Zagreb,&nbsp;Croatia |
+
 2018
 
  | Date | Talk | Event | Place |
