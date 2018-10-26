@@ -13,6 +13,7 @@ Talks, ordered alphabetically:
 - [NSeed or The Art of .NET Data Generation](NSeedOrTheArtOfDotNetDataGeneration)
 - [Reaching Technical Excellence - From Software Sheep to Software Craftsmanship](ReachingTechnicalExcellenceFromSoftwareSheepToSoftwareCraftsmanship)
 - [Super-powers and the Compiler](SuperPowersAndTheCompiler)
+- [What's New in .NET Core 2.1](WhatsNewInDotNetCore21)
 
 Past to present of the talks at various user groups and conferences:
 
@@ -20,6 +21,7 @@ Past to present of the talks at various user groups and conferences:
 
  | Date | Talk | Event | Place |
  | --- | --- | --- | --- |
+ | October&nbsp;23rd | [What's New in .NET Core 2.1](WhatsNewInDotNetCore21) | [Microsoft Developer User Group Zagreb](https://www.meetup.com/de-DE/devugzg/events/253751280/) | Zagreb,&nbsp;Croatia |
  | October&nbsp;13th | [High-Performance ASP.NET Core (Workshop)](HighPerformanceAspDotNetCore) | [Start IT Hrvatska](https://www.meetup.com/Udruga-za-promicanje-naprednih-tehnologija-Start-IT/events/255161380/) | Rijeka,&nbsp;Croatia |
  | October&nbsp;4th | [Cross-platform .NET Core Development With Visual Studio Code](CrossPlatformDotNetCoreDevelopmentWithVisualStudioCode) | [Microsoft Developer User Group Graz](https://www.meetup.com/MicrosoftDeveloperGraz/events/254817251/) | Graz,&nbsp;Austria |
  | October&nbsp;3rd | [High-Performance ASP.NET Core (Workshop)](HighPerformanceAspDotNetCore) (Together with [Dobriša Adamec](https://twitter.com/dadamec))| [WebCamp Zagreb Conference](https://2018.webcampzg.org/workshops/high-performance-aspnet-core/) | Zagreb,&nbsp;Croatia |
