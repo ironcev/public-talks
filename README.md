@@ -21,6 +21,7 @@ Upcoming talks
 
 | Date | Talk | Event | Place |
  | --- | --- | --- | --- |
+ | November&nbsp;29th | [High-Performance .NET](HighPerformanceDotNet) | [High-Performance .NET Meetup](https://www.meetup.com/High-Performance-DotNet/events/256330873/) | Graz,&nbsp;Austria |
  | December&nbsp;5th | [Reaching Technical Excellence - From Software Sheep to Software Craftsmanship](ReachingTechnicalExcellenceFromSoftwareSheepToSoftwareCraftsmanship) | [Advanced Technology Days Conference](https://advtechdays.com/) | Zagreb,&nbsp;Croatia |
 
 2018
